@@ -8,7 +8,7 @@ The content here covers:
 
 - **Scripts**: Custom utilities and tools written to manage and maintain the homelab environment
 - **Automations**: Automated workflows and processes for routine tasks and system management
-- **Documentation**: Technical notes, setup guides, and architectural decisions for various homelab components
+- **Documentation**: Technical notes, setup guides, and architectural decisions for various homelab components as needed.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ This repository functions as both a personal reference and a resource for others
 
 ## Structure
 
-Content is organized by function and component type, with each section containing relevant code, configuration files, and explanatory documentation where needed.
+Content is organized by types of content, placed into appropriate folders.
 
 ---
 
